@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Planet Elektronik Indonesia",
+        "url": "https://planetelektronikindonesia.com",
+        "category": "Online Shop",
+        "img": "./assets/img/shop_1.PNG",
+        "isDemo": true
+    },
+    {
+        "name": "CI MART",
+        "url": "",
+        "category": "POS",
+        "img": "./assets/img/POS_1.PNG",
+        "isDemo": false
+    },
+    {
+        "name": "Hamzanwadi Clinic Inventory App",
+        "url": "",
+        "category": "Inventory",
+        "img": "./assets/img/inventory_1.PNG",
+        "isDemo": false
+    },
+    {
+        "name": "Optical Store",
+        "url": "",
+        "category": "POS",
+        "img": "./assets/img/optical_1.PNG",
+        "isDemo": false
+    }
+]
